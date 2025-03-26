@@ -24,6 +24,14 @@ Si dentro del entorno virtual se instala una nueva dependendecia únicamente se 
 \
 \
 Finalmente, cuando se quiere deactivar el entorno virutal habrá que ejecutar el siguiente comando:
+
  ```
 deactivate
+```
+\
+Las dependencias instaladas son:
+
+ ```
+pip install transformers langchain langchain-community 
+REVISAR DEPENDECIAS
 ```
